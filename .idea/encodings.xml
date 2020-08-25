@@ -4,5 +4,6 @@
     <file url="file://$PROJECT_DIR$/sp02-itemservice/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sp03-userservice/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sp04-orderservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sp05-eureka/src/main/java" charset="UTF-8" />
   </component>
 </project>
