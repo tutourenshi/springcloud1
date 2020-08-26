@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/sp03-userservice/sp03-userservice.iml" filepath="$PROJECT_DIR$/sp03-userservice/sp03-userservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/sp04-orderservice/sp04-orderservice.iml" filepath="$PROJECT_DIR$/sp04-orderservice/sp04-orderservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/sp05-eureka/sp05-eureka.iml" filepath="$PROJECT_DIR$/sp05-eureka/sp05-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sp07-hystrix/sp06.iml" filepath="$PROJECT_DIR$/sp07-hystrix/sp06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sp06-ribbon/spo6-ribbon.iml" filepath="$PROJECT_DIR$/sp06-ribbon/spo6-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring01.iml" filepath="$PROJECT_DIR$/.idea/spring01.iml" />
     </modules>
   </component>

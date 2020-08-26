@@ -11,6 +11,9 @@
         <option value="$PROJECT_DIR$/sp04-orderservice/pom.xml" />
         <option value="$PROJECT_DIR$/sp05-eureka/pom.xml" />
         <option value="$PROJECT_DIR$/sp01-sommons/pom.xml" />
+        <option value="$PROJECT_DIR$/spo6-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/sp07-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/sp06-ribbon/pom.xml" />
       </list>
     </option>
   </component>
