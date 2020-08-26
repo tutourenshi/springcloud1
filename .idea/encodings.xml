@@ -7,5 +7,6 @@
     <file url="file://$PROJECT_DIR$/sp05-eureka/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sp06-ribbon/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sp07-hystrix/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sp08-hystrix-dashboard/src/main/java" charset="UTF-8" />
   </component>
 </project>
