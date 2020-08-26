@@ -10,6 +10,7 @@
         <module name="sp03-userservice" />
         <module name="sp02-itemservice" />
         <module name="sp05-eureka" />
+        <module name="sp01-commons" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

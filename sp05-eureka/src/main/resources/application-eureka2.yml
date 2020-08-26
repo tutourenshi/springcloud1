@@ -1,0 +1,8 @@
+eureka:
+  instance:
+    hostname: eureka2 # 集群中用hostname来区分服务器
+  client:
+    register-with-eureka: true # 单台服务器不向自己注册
+    fetch-registry: true # 单台服务器不从自己拉取
+    service-url:
+      defaultZone: http://eureka1:2001/eureka
