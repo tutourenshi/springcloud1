@@ -14,3 +14,12 @@ ribbon:
   MaxAutoRetriesNextServer: 2  #更换实例的次数
   MaxAutoRetries: 1            #当前实例重试次数，尝试失败会更换下一个实例
   OkToRetryOnAllOperations: true  #默认只对GET请求重试, 当设置为true时, 对POST等所有类型请求都重试
+
+
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 500

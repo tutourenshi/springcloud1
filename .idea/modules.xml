@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/sp05-eureka/sp05-eureka.iml" filepath="$PROJECT_DIR$/sp05-eureka/sp05-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/sp07-hystrix/sp06.iml" filepath="$PROJECT_DIR$/sp07-hystrix/sp06.iml" />
       <module fileurl="file://$PROJECT_DIR$/sp08-hystrix-dashboard/sp08-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/sp08-hystrix-dashboard/sp08-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sp09/sp09-feign.iml" filepath="$PROJECT_DIR$/sp09/sp09-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/sp06-ribbon/spo6-ribbon.iml" filepath="$PROJECT_DIR$/sp06-ribbon/spo6-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring01.iml" filepath="$PROJECT_DIR$/.idea/spring01.iml" />
     </modules>
