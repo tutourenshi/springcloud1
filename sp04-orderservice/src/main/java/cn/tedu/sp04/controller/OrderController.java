@@ -1,4 +1,4 @@
-package cn.tedu.sp04.order.controller;
+package cn.tedu.sp04.controller;
 
 import java.util.Arrays;
 
