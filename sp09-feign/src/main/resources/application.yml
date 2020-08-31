@@ -14,12 +14,14 @@ ribbon:
   ConnectTimeout: 1000
   ReadTimeout: 1000
 
+#重置参数默认值
 item-service:
   ribbon:
     MaxAutoRetries: 1
     MaxAutoRetriesNextServer: 2
     ConnectTimeout: 1000
     ReadTimeout: 500
+
 
 feign:
   hystrix:
