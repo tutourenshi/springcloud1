@@ -1,11 +1,11 @@
-package cn.tedu.sp09.controller;
+package cn.tedu.sp11.controller;
 
 import cn.tedu.sp01.pojo.Item;
 import cn.tedu.sp01.pojo.Order;
 import cn.tedu.sp01.pojo.User;
-import cn.tedu.sp09.service.ItemFeignService;
-import cn.tedu.sp09.service.OrderFeignService;
-import cn.tedu.sp09.service.UserFeignService;
+import cn.tedu.sp11.service.ItemFeignService;
+import cn.tedu.sp11.service.OrderFeignService;
+import cn.tedu.sp11.service.UserFeignService;
 import cn.tedu.web.util.JsonResult;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

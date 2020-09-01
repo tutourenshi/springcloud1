@@ -7,13 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="sp02-itemservice" />
+        <module name="sp08-hystrix-dashboard" />
         <module name="sp05-eureka" />
         <module name="sp10-turbine" />
         <module name="sp06" />
-        <module name="sp08-hystrix-dashboard" />
-        <module name="sp01-commons" />
-        <module name="sp03-userservice" />
         <module name="sp04-orderservice" />
+        <module name="sp01-commons" />
+        <module name="sp09-zuul" />
+        <module name="sp03-userservice" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -25,7 +26,9 @@
       <module name="sp06" target="1.8" />
       <module name="sp08-hystrix-dashboard" target="1.8" />
       <module name="sp09-feign" target="1.8" />
+      <module name="sp09-zuul" target="1.8" />
       <module name="sp10-turbine" target="1.8" />
+      <module name="sp11-zuul" target="1.8" />
       <module name="spo6-ribbon" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -38,7 +41,9 @@
       <module name="sp06" options="-parameters" />
       <module name="sp08-hystrix-dashboard" options="-parameters" />
       <module name="sp09-feign" options="-parameters" />
+      <module name="sp09-zuul" options="-parameters" />
       <module name="sp10-turbine" options="-parameters" />
+      <module name="sp11-zuul" options="-parameters" />
       <module name="spo6-ribbon" options="-parameters" />
     </option>
   </component>
