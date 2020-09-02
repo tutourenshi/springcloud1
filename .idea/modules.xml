@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
       <module fileurl="file://$PROJECT_DIR$/sp01-sommons/sp01-commons.iml" filepath="$PROJECT_DIR$/sp01-sommons/sp01-commons.iml" />
       <module fileurl="file://$PROJECT_DIR$/sp02-itemservice/sp02-itemservice.iml" filepath="$PROJECT_DIR$/sp02-itemservice/sp02-itemservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/sp03-userservice/sp03-userservice.iml" filepath="$PROJECT_DIR$/sp03-userservice/sp03-userservice.iml" />
@@ -11,7 +12,6 @@
       <module fileurl="file://$PROJECT_DIR$/sp08-hystrix-dashboard/sp08-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/sp08-hystrix-dashboard/sp08-hystrix-dashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/sp10-turbine/sp10-turbine.iml" filepath="$PROJECT_DIR$/sp10-turbine/sp10-turbine.iml" />
       <module fileurl="file://$PROJECT_DIR$/sp11-zuul/sp09-zuul.iml" filepath="$PROJECT_DIR$/sp11-zuul/sp09-zuul.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sp12-config/sp12-config.iml" filepath="$PROJECT_DIR$/sp12-config/sp12-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring01.iml" filepath="$PROJECT_DIR$/.idea/spring01.iml" />
     </modules>
   </component>
