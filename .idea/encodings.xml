@@ -13,6 +13,7 @@
     <file url="file://$PROJECT_DIR$/sp09-feign/src/main/resources/application.yml" charset="GBK" />
     <file url="file://$PROJECT_DIR$/sp10-turbine/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sp11-zuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sp12-config/src/main/java" charset="UTF-8" />
     <file url="PROJECT" charset="GBK" />
   </component>
 </project>
