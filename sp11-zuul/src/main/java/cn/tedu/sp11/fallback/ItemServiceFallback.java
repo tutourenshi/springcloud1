@@ -26,7 +26,7 @@ public class ItemServiceFallback implements FallbackProvider {
         //星号和null都表示所有微服务失败都应用当前降级类
         //"*"; //null;
     }
-
+     
     //该方法返回封装降级响应的对象
     //ClientHttpResponse中封装降级响应
     @Override
