@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>cn.tedu</groupId>
-    <artifactId>sp09-zuul</artifactId>
+    <artifactId>sp11-zuul</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>sp09-zuul</name>
+    <name>sp11-zuul</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
@@ -20,6 +20,11 @@
     </properties>
 
     <dependencies>
+
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-sleuth</artifactId>
+        </dependency>
 
         <dependency>
             <groupId>org.springframework.cloud</groupId>
